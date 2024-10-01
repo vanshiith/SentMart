@@ -1,7 +1,5 @@
 # SentMart: Stock Sentiment and Prediction Platform
 
-## Team Info & Policies (10%)
-
 **Team Members and Roles:**
 - **Serena:** Data processing, gathering sources of data, natural language sentiment analysis.
 - **Alisiia:** Web scraping, web development/UI.
@@ -19,8 +17,6 @@
 - Gmail
 
 ---
-
-## Product Description (20%)
 
 SentMart is a stock sentiment and prediction platform designed to provide stock trend visualization, sentiment analysis, and AI-based stock predictions. It aims to help users make informed decisions based on both quantitative financial data and qualitative public sentiment.
 
@@ -99,7 +95,6 @@ SentMart is a stock sentiment and prediction platform designed to provide stock 
 
 ---
 
-## Non-functional Requirements (10%)
 
 1. **Scalability:**  
    The platform should efficiently handle an increasing number of users and data without degrading performance. It must be capable of processing real-time public sentiment from various sources.
@@ -112,15 +107,12 @@ SentMart is a stock sentiment and prediction platform designed to provide stock 
 
 ---
 
-## External Requirements (10%)
 
 1. The product must handle invalid user inputs (e.g., invalid company names) and notify users with appropriate messages.
 2. The product will be hosted on a public domain, allowing easy access and use.
 3. The codebase will follow clean coding protocols and be well documented for future developers.
 
 ---
-
-## Team Process Description (20%)
 
 ### Technologies:
 - PyTorch/TensorFlow for model building
